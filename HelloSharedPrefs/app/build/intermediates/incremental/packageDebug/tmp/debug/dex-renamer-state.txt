@@ -1,0 +1,4 @@
+#Mon May 18 18:39:15 PDT 2020
+base.0=/Users/haiqi/AndroidStudioProjects/HelloSharedPrefs/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

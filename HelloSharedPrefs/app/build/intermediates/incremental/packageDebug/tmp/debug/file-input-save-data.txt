@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 18 18:39:15 PDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/haiqi/AndroidStudioProjects/HelloSharedPrefs/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
